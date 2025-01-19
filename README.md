@@ -35,7 +35,7 @@ Item ID: {ITEM.ID1}
 ```
 * Segue abaixo modo que tem que ficar o "Tipo de Mídia"
 
-[image](https://github.com/user-attachments/assets/b6863a5a-f5c2-4023-b8e5-8d629dca633e)
+![image](https://github.com/user-attachments/assets/c065f16b-97e0-4cb6-9006-73c29ddef975)
 
 
 * Segue configuração de Midia do Usuario!
