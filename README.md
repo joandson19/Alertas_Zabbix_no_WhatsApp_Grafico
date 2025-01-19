@@ -35,7 +35,8 @@ Item ID: {ITEM.ID1}
 ```
 * Segue abaixo modo que tem que ficar o "Tipo de Mídia"
 
-![image](https://github.com/joandson19/Alertas_Zabbix_no_Telegram_Grafico/assets/36518985/6017affa-8811-4ddc-9bb6-851e9ee309f6)
+[image](https://github.com/user-attachments/assets/b6863a5a-f5c2-4023-b8e5-8d629dca633e)
+
 
 * Segue configuração de Midia do Usuario!
 
