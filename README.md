@@ -1,8 +1,8 @@
 
 # Alertas_Zabbix_no_WhatsApp_Grafico
 
-## Antes de mais nada será necessário instalar o projeto WhatsApp-Web-js do Rudimar disponivel no ![url](https://github.com/remontti/RR-WhatsApp-API)
-## Para enviar para o WhatsApp usaremos o projeto do Rudimar https://github.com/remontti/RR-WhatsApp-API
+### Antes de mais nada será necessário instalar o projeto WhatsApp-Web-js do Rudimar disponivel no https://github.com/remontti/RR-WhatsApp-API
+### Após criar o servidor de API WhatsApp-Web-js no link acima poderá seguir o passos abaixo.
 
 * Instale as dependencias para o script
 ```
@@ -37,7 +37,8 @@ Serveridade: {EVENT.SEVERITY}
 Item ID: {ITEM.ID1}
 ```
 * Segue abaixo modo que tem que ficar o "Tipo de Mídia"
-
+* A URL é a do servidor da API que você criu no inicio.
+  
 ![image](https://github.com/user-attachments/assets/c065f16b-97e0-4cb6-9006-73c29ddef975)
 
 
