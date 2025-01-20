@@ -8,8 +8,8 @@ import httpx
 from pyzabbix import ZabbixAPI
 
 # Configurações
-WHATSAPP_API_URL = sys.argv[1] # Url da api de envio
-WHATSAPP_RECIPIENTS = sys.argv[2]  # Lista de destinatários separados por vírgula
+WHATSAPP_API_URL = sys.argv[1] # recebe a Url da api do whatsapp
+WHATSAPP_RECIPIENTS = sys.argv[2]  # recebe o número ou a lista de destinatários separados por vírgula
 URL_ZABBIX = "https://URL_DO_SEU_ZABBIX"
 USER = "USER_DO_ZABBIX_COM_PERMISSÕES"
 PASS = "SENHA_DO_ZABBIX_COM_PERMISSÕES"
