@@ -40,7 +40,7 @@ Item ID: {ITEM.ID1}
 
 * Segue configuração de Midia do Usuario!
 
-![image](https://github.com/joandson19/Alertas_Zabbix_no_Telegram_Grafico/assets/36518985/3d70d58a-149e-474a-892d-6a296afb4afe)
+![image](https://github.com/user-attachments/assets/f21d6955-9785-4f0f-b275-a5921c8a7ddb)
 
 
 * Segue exemplo para incidente
