@@ -1,5 +1,5 @@
 
-# Alertas_Zabbix_no_Telegram_Grafico
+# Alertas_Zabbix_no_WhatsApp_Grafico
 
 * Instale as dependencias para o script
 ```
