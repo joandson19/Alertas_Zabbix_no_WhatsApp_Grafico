@@ -53,9 +53,10 @@ Item ID: {ITEM.ID1}
   
 ![image](https://github.com/joandson19/Alertas_Zabbix_no_Telegram_Grafico/assets/36518985/5ee6f68b-3212-4fe4-b51c-879448e1ff4b)
 
-* Testando as notificações no Telegram
+* Testando as notificações no WhatsApp
 
-![image](https://github.com/joandson19/Alertas_Zabbix_no_Telegram_Grafico/assets/36518985/664ae01b-8859-4f4b-a2d7-1a6c45e678fa)
+![image](https://github.com/user-attachments/assets/8f6b19e8-ec13-4c2c-b248-20dfcbf0a6be)
+
 
 
 
