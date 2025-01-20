@@ -75,9 +75,4 @@ Adicione o código da cor entre #, como #CODIGODACOR#.
 ### 9️⃣ Testar as notificações no WhatsApp
 * Após configurar, faça um teste para verificar as notificações no WhatsApp:
 
-![image](https://github.com/user-attachments/assets/8f6b19e8-ec13-4c2c-b248-20dfcbf0a6be)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/03a4a88b-62b5-4ef5-8991-3437dee12f36)
