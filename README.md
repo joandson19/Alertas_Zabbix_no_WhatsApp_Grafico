@@ -14,7 +14,7 @@
 ```
 * dê as permissões necessárias
 ```
-# chown zabbix. -R /usr/lib/zabbix/alertscripts/*
+# chown zabbix:zabbix -R /usr/lib/zabbix/alertscripts/*
 # chmod  +x /usr/lib/zabbix/alertscripts/notifica-whatsapp.py
 ```
 * Edite o arquivo notifica-whatsapp.py alterando as linha que fazem referencia a (url, login e senha)
