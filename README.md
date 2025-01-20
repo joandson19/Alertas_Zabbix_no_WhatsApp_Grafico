@@ -2,7 +2,7 @@
 # 🛠️ Alertas do Zabbix no WhatsApp com Gráficos
 
 ### 🚨 Pré-requisitos: Configurar o WhatsApp-Web-js
-Antes de mais nada, será necessário instalar o projeto **WhatsApp-Web-js** do [Rudimar](https://github.com/remontti/RR-WhatsApp-API). Após criar o servidor de API WhatsApp-Web-js, siga os passos abaixo para configurar o script.
+Antes de mais nada, será necessário instalar o projeto **WhatsApp-Web-js** do [Rudimar](https://blog.remontti.com.br/8109). Após criar o servidor de API WhatsApp-Web-js, siga os passos abaixo para configurar o script.
 
 ---
 
