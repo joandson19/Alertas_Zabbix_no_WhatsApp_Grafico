@@ -76,3 +76,7 @@ Adicione o código da cor entre #, como #CODIGODACOR#.
 * Após configurar, faça um teste para verificar as notificações no WhatsApp:
 
 ![image](https://github.com/user-attachments/assets/03a4a88b-62b5-4ef5-8991-3437dee12f36)
+
+
+📜 Créditos
+A integração com o WhatsApp foi possível graças ao incrível projeto WhatsApp-Web-js, desenvolvido por [Rudimar Remontti](https://blog.remontti.com.br/8109). Agradecimentos especiais ao Rudimar pelo excelente trabalho e contribuição à comunidade.
