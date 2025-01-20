@@ -1,6 +1,9 @@
 
 # Alertas_Zabbix_no_WhatsApp_Grafico
 
+## Antes de mais nada será necessário instalar o projeto WhatsApp-Web-js do Rudimar disponivel no ![url](https://github.com/remontti/RR-WhatsApp-API)
+## Para enviar para o WhatsApp usaremos o projeto do Rudimar https://github.com/remontti/RR-WhatsApp-API
+
 * Instale as dependencias para o script
 ```
 # sudo -H -u zabbix python3 -m pip install pyzabbix httpx loguru
