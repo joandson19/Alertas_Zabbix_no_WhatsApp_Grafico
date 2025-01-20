@@ -3,7 +3,7 @@
 
 * Instale as dependencias para o script
 ```
-# sudo -H -u zabbix python3 -m pip install pyzabbix httpx pyzabbix loguru
+# sudo -H -u zabbix python3 -m pip install pyzabbix httpx loguru
 ```
 * Adicione o script notifica-whatsapp.py dentro de /usr/lib/zabbix/alertscripts/ e crie a pasta log.
 ```
