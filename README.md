@@ -6,7 +6,7 @@ Antes de mais nada, será necessário instalar o projeto [**WhatsApp-Web-js**](h
 
 ---
 
-## 🧰 Passo a passo para configuração
+## 🧰 Passo a passo para configuração no servidor do Zabbix
 
 ### 1️⃣ Instalar as dependências necessárias
 Execute o seguinte comando para instalar as bibliotecas Python requeridas:
