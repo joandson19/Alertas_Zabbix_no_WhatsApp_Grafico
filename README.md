@@ -5,7 +5,7 @@
 ```
 # sudo -H -u zabbix python3 -m pip install pyzabbix httpx pyzabbix loguru
 ```
-* Adicione o script notifica-telegram.py dentro de /usr/lib/zabbix/alertscripts/ e crie a pasta log.
+* Adicione o script notifica-whatsapp.py dentro de /usr/lib/zabbix/alertscripts/ e crie a pasta log.
 ```
 # cd /tmp
 # git clone https://github.com/joandson19/Alertas_Zabbix_no_WhatsApp_Grafico.git
